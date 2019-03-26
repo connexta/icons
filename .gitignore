@@ -32,6 +32,3 @@ buildNumber.properties
 .mvn/timing.properties
 coverage/
 .nyc_output
-
-src/main/resources/webapp
-icons/
